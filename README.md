@@ -1,1 +1,1 @@
-# Drawing-Book
+# Drawing-Book This code calculates the minimum number of pages to turn in a book to reach a target page by comparing turns from the front and from the back. It returns the smaller of the two values as the result.
